@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/azureBlob.schema.json
+name: blob_storage_cli
+type: azure_blob
+description: Datastore pointing to a blob container.
+account_name: amlv2sa
+container_name: datacontainer
+credentials:
+  account_key: f7v/A7dnhOfZyvDdevE5EqiG/ImIfPBNed1izh5enYWPXJP6C6Zn9W8U6XVMxiLNaMXLZgTt6d97+ASt3KTJ8g==

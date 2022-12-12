@@ -1,0 +1,1 @@
+Please note that these images were cloned to our repository from the public repository hosted at https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10

@@ -1,0 +1,12 @@
+type: mltable
+
+paths:
+    - file: ./titanic.csv
+
+transformations:
+    - read_delimited:
+        encoding: ascii
+        header: all_files_same_headers
+        delimiter: ','
+    
+    
