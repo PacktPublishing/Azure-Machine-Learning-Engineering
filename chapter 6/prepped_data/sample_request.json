@@ -1,0 +1,1 @@
+{"input_data": {"columns": ["Embarked", "Loc", "Sex", "Pclass", "Age", "Fare", "GroupSize"], "data": [{"Pclass": 3, "Sex": "male", "Age": 22.0, "Fare": 7.25, "Embarked": "S", "Loc": "X", "GroupSize": 2}, { "Pclass": 1, "Sex": "female", "Age": 38.0, "Fare": 71.2833, "Embarked": "C", "Loc": "C", "GroupSize": 2}]}} 
