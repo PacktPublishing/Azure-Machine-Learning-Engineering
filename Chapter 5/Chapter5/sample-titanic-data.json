@@ -1,0 +1,22 @@
+{
+  "Inputs": {
+    "data": [
+      {
+        "PassengerId": 10,
+        "Pclass": 1,
+        "Name": "Name goes here",
+        "Sex": "Male",
+        "Age": 35.0,
+        "SibSp": 2,
+        "Parch": 1,
+        "Ticket": "F123",
+        "Fare": 10.0,
+        "Cabin": "S",
+        "Embarked": "E"
+      }
+    ]
+  },
+  "GlobalParameters": {
+    "method": "predict"
+  }
+}
