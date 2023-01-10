@@ -24,6 +24,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
+All of the code is organized into folders.
 
 The command will look like the following:
 ```
