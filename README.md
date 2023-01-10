@@ -40,20 +40,44 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/5NVrW).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/8s9Lt).
 
 
 ### Related products <Other books you may enjoy>
-* Intelligent Document Processing with AWS AI/ML [[Packt]](https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562) [[Amazon]](https://www.amazon.com/dp/1801073082)
+* Machine Learning Techniques for Text [[Packt]](https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562) [[Amazon]](https://www.amazon.com/dp/1801073082)
 
-* Practical Deep Learning at Scale with MLflow [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) [[Amazon]](https://www.amazon.com/dp/180324366X)
+* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) [[Amazon]](https://www.amazon.com/dp/180324366X)
 
 ## Get to Know the Author
-**Manu Joseph**
-is a self-made data scientist with more than a decade of experience working with many
-Fortune 500 companies, enabling digital and AI transformations, specifically in machine learningbased demand forecasting. He is considered an expert, thought leader, and strong voice in the world
-of time series forecasting. Currently, Manu leads applied research at Thoucentric, where he advances
-research by bringing cutting-edge AI technologies to the industry. He is also an active open source
-contributor and has developed an open source library—PyTorch Tabular—which makes deep learning
-for tabular data easy and accessible. Originally from Thiruvananthapuram, India, Manu currently
-resides in Bengaluru, India, with his wife and son.
+**Sina Fakhraee**, 
+Ph.D., is currently working at Microsoft as an enterprise data scientist and senior cloud
+solution architect. He has helped customers to successfully migrate to Azure by providing best practices
+around data and AI architectural design and by helping them implement AI/ML solutions on Azure.
+Prior to working at Microsoft, Sina worked at Ford Motor Company as a product owner for Ford’s
+AI/ML platform. Sina holds a Ph.D. degree in computer science and engineering from Wayne State
+University and prior to joining the industry, he taught various undergrad and grad computer science
+courses part time. If you would like to know more about Sina, please visit his LinkedIn: https://
+www.linkedin.com/in/sina-fakhraee-ph-d-2798ba70/.
+I would like to thank my manager, Rod Means, for his outstanding guidance, support, and leadership
+over the past few years. I would also like to thank Ali Abidi, Priyanka Soam, Kirti Pisat, and the
+rest of the team at Packt for their help and support throughout the process. I would like to thank my
+amazing team members, Bala and Megan, for their amazing collaboration and teamwork.
+**Balamurugan Balakreshnan**
+is a principal cloud solution architect at Microsoft Data/AI Architect
+and Data Science. He has provided leadership on digital transformations with AI and cloud-based
+digital solutions. He has also provided leadership in terms of ML, the IoT, big data, and advanced
+analytical solutions.
+A big thank you to my manager Shruti Harish for her guidance and support throughout the book.
+I also thank the publishers, Packt, and their team – Ali Abidi, Priyanka Soam, Kirti Pisat, and
+rest of the team. Thank you to all my friends and colleagues for providing me with this wonderful
+opportunity to collaborate on the book (Sina Fakhraee and Megan Masanz).
+**Megan Masanz**
+is a principal cloud solution architect at Microsoft focused on data, AI, and data
+science, passionately enabling organizations to address business challenges through the establishment
+of strategies and road maps for the planning, design, and deployment of Azure Cloud-based solutions.
+Megan is adept at paving the path to data science via computer science given her master’s in computer
+science with a focus on data science (https://meganmasanz.azurewebsites.net/).
+I would like to thank my manager, Marc Grove, a wonderful source of support and guidance. I
+would like to thank the Packt team for their partnership in bringing this book forward, and for
+the opportunity they have provided. I would like to thank my team members for their amazing
+collaboration and teamwork
