@@ -56,12 +56,12 @@ around data and AI architectural design and by helping them implement AI/ML solu
 Prior to working at Microsoft, Sina worked at Ford Motor Company as a product owner for Ford’s
 AI/ML platform. Sina holds a Ph.D. degree in computer science and engineering from Wayne State
 University and prior to joining the industry, he taught various undergrad and grad computer science
-courses part time. If you would like to know more about Sina, please visit his LinkedIn: https://
-www.linkedin.com/in/sina-fakhraee-ph-d-2798ba70/.
+courses part time. If you would like to know more about Sina, please visit his LinkedIn: https://www.linkedin.com/in/sina-fakhraee-ph-d-2798ba70/.
 I would like to thank my manager, Rod Means, for his outstanding guidance, support, and leadership
 over the past few years. I would also like to thank Ali Abidi, Priyanka Soam, Kirti Pisat, and the
 rest of the team at Packt for their help and support throughout the process. I would like to thank my
 amazing team members, Bala and Megan, for their amazing collaboration and teamwork.
+
 **Balamurugan Balakreshnan**
 is a principal cloud solution architect at Microsoft Data/AI Architect
 and Data Science. He has provided leadership on digital transformations with AI and cloud-based
@@ -71,6 +71,7 @@ A big thank you to my manager Shruti Harish for her guidance and support through
 I also thank the publishers, Packt, and their team – Ali Abidi, Priyanka Soam, Kirti Pisat, and
 rest of the team. Thank you to all my friends and colleagues for providing me with this wonderful
 opportunity to collaborate on the book (Sina Fakhraee and Megan Masanz).
+
 **Megan Masanz**
 is a principal cloud solution architect at Microsoft focused on data, AI, and data
 science, passionately enabling organizations to address business challenges through the establishment
