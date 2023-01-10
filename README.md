@@ -24,13 +24,11 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders.
 
-The code will look like the following:
+The command will look like the following:
 ```
-#Does not support missing values, so using imputed ts instead
-res = seasonal_decompose(ts, period=7*48, model="additive",
-extrapolate_trend="freq")
+az extension remove -n azure-cli-ml
+az extension remove -n ml
 ```
 
 **Following is what you need for this book:**
@@ -44,11 +42,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Machine Learning Techniques for Text [[Packt]](https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562) [[Amazon]](https://www.amazon.com/dp/1801073082)
+* Machine Learning Techniques for Text [[Packt]](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385) [[Amazon]](https://www.amazon.com/dp/1803242388)
 
-* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) [[Amazon]](https://www.amazon.com/dp/180324366X)
+* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259) [[Amazon]](https://www.amazon.com/dp/1801079250)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Sina Fakhraee**, 
 Ph.D., is currently working at Microsoft as an enterprise data scientist and senior cloud
 solution architect. He has helped customers to successfully migrate to Azure by providing best practices
