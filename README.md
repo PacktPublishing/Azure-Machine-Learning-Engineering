@@ -81,3 +81,8 @@ I would like to thank my manager, Marc Grove, a wonderful source of support and 
 would like to thank the Packt team for their partnership in bringing this book forward, and for
 the opportunity they have provided. I would like to thank my team members for their amazing
 collaboration and teamwork
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803239309">https://packt.link/free-ebook/9781803239309 </a> </p>
