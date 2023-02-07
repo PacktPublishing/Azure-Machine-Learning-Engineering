@@ -35,7 +35,7 @@ az extension remove -n ml
 **Following is what you need for this book:**
 Machine learning engineers and data scientists who want to move to ML engineering roles will find this AMLS book useful. Familiarity with the Azure ecosystem will assist with understanding the concepts covered.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+With the following software and hardware list you can run all code files present in the book.
 
 
 
